@@ -5,11 +5,13 @@ website template for e commerce launch.
 ![image](https://github.com/user-attachments/assets/721b67d8-c4d5-45c3-acb7-c14c8b353a98)
 
 Setup Instructions
+
 Create a new directory for your project:
 
 bash
 mkdir project
 cd project
+
 Initialize a Node.js project:
 
 bash
@@ -21,14 +23,6 @@ Install required dependencies:
 bash
 npm install express body-parser sqlite3
 
-
-Create the necessary files and directories:
-
-bash
-mkdir public
-touch public/index.html
-touch server.js
-mkdir data
 
 Start the server:
 
